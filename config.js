@@ -6,6 +6,7 @@ var config = {
         "送给我",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "美丽迷人、聪明大方",  // 同上...
         "可爱有元气、又倍受赞叹的姐姐",
+        "先放一张我俩的合照",
         "今天是你的生日",
         "希望我最最好的好姐姐",
         "在新的一岁里",
@@ -32,11 +33,11 @@ var config = {
     desc: {
         turn_on: "开始",
         play: "音乐",
-        bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐",
+        bannar_coming: "来点小彩旗",
+        balloons_flying: "气球也不能少",
+        cake_fadein: "过生日当然要有蛋糕！",
+        light_candle: "蜡烛也要到点上",
+        wish_message: "生日快乐~",
         story: "A MESSAGE FOR YOU",
     }
 };
